@@ -1,2 +1,2 @@
 # koinoyokan
-websites html
+website html
